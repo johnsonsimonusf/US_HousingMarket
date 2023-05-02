@@ -12,6 +12,7 @@ Theory 3: If high property value spurs housing, the Income generated will be hig
 (https://public.tableau.com/app/profile/johnson.simon/viz/IncomeGenerarting_Housing_Markets_US/MarketTrendsDashboard)
 
 Resources used:
+---------------
 Kaggle: https://www.kaggle.com/datasets/aariyan101/usa-housingcsv
 Zillow Economics: https://www.zillow.com/research/data/
 Realtor Data: https://www.realtor.com/research/data
